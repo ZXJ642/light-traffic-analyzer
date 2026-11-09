@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+report.md
+filter_test.md
+/charts/
+build/
+dist/
+*.spec
+.idea/
+.vscode/
+.DS_Store
